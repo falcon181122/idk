@@ -46,7 +46,7 @@ Message bubble styles [If you don't want any place a /* in all]
     --wallpaper-is: "none" /* Wallpaper - Replace de url only */
     --blur-size: 24px; /* Amount of blur in pixels [24px is default] */
     --opacity-thing: 0.6; /* Value from 0 to 1 [0.6 is default] */
-    --server-size: 36px; /* The size of the server icons [48px is default] */
+    --server-size: 48px; /* The size of the server icons [48px is default] */
       
     /* HSL(Hue, Saturation, Lightness). This values will change the accent color (That blue color in most buttons) */
     --H: 146; /* Value only number [199 is default] */
