@@ -25,7 +25,7 @@
   --background-size: 100%;
   --background-repeat: no-repeat;
   --background-attachment: fixed;
-  --background-brightness: 300%;
+  --background-brightness: 100%;
   --background-contrast: 100%;
   --background-saturation: 100%;
   --background-grayscale: 0%;
